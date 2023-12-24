@@ -1,1 +1,2 @@
-beginning project to learn react/typescript
+**Todo List App**
+
